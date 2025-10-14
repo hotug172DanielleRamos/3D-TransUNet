@@ -29,3 +29,5 @@ task: Task201_Synapse8
 network: 3d_fullres
 network_trainer: nnUNetTrainerV2_DDP
 hdfs_base: GeTU201Synapse8_3DTransUNet_decoder_only
+
+# Update: 2025-10-14
