@@ -29,3 +29,4 @@ task: Task500_BraTS2021
 network: 3d_fullres
 network_trainer: nnUNetTrainerV2_DDP
 hdfs_base: GeTU500Region_3DTransUNet_decoder_only
+# Update: 2025-10-26
